@@ -14,6 +14,7 @@ class Home extends Component {
           <Article
             headline="Awsome feature toggles and how they work"
             text="Feature toogle are awesome to change the behavier of your app without changing your code" />
+            <Recommendation />
         </ToggleProvider >
       </div>
     )
